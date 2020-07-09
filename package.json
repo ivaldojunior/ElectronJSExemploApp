@@ -1,19 +1,22 @@
 {
-  "name": "electron-exemplo-1",
-  "version": "1.0.0",
-  "description": "",
-  "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ivaldojunior/ElectronJSExemploApp.git"
-  },
-  "author": "Ivaldo",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ivaldojunior/ElectronJSExemploApp/issues"
-  },
-  "homepage": "https://github.com/ivaldojunior/ElectronJSExemploApp#readme"
+	"name": "electron-exemplo-1",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"start": "electron ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ivaldojunior/ElectronJSExemploApp.git"
+	},
+	"author": "Ivaldo",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ivaldojunior/ElectronJSExemploApp/issues"
+	},
+	"homepage": "https://github.com/ivaldojunior/ElectronJSExemploApp#readme",
+	"devDependencies": {
+		"electron": "^9.1.0"
+	}
 }

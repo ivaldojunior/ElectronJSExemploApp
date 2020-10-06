@@ -17,6 +17,6 @@
 	},
 	"homepage": "https://github.com/ivaldojunior/ElectronJSExemploApp#readme",
 	"devDependencies": {
-		"electron": "^9.1.0"
+		"electron": "^9.3.1"
 	}
 }
